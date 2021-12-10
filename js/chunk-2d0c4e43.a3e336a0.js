@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c4e43"],{"3d84":function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("reporte",{attrs:{Tipo:"REPORTE DE FALTAS JUSTIFICADAS"}})},r=[],c=n("7ec1"),o={components:{reporte:c["a"]},name:"Reporte_Faltas_Justificadas"},s=o,p=n("2877"),u=Object(p["a"])(s,a,r,!1,null,null,null);t["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0c4e43.a3e336a0.js.map
